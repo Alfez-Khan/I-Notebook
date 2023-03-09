@@ -5,7 +5,6 @@ It can do basic functions like creating new text files,
 opening already existing files and saving changes in them.
 And other text-editing work like cut, copy and paste.
 
-Created by Alfez Khan Class XII A  Roll No. 08
 ''' 
 
 # Importing tkinter module(for gui) and other modules
